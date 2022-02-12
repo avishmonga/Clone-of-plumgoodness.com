@@ -2,7 +2,7 @@
 
 **Plumgoodness** is a ecommerce platform offering  safe, paraben-free, phthalate-free, SLS-free skincare products online with rich natural ingredients. 100% Vegan Brand In India.
 
-
+**TeckStack :** HTML | CSS | Javascript | Localstorage
 
 ## Features
 Sign-in/Sign-up 
